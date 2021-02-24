@@ -1,10 +1,6 @@
 package org.lanqiao.maven;
 public class HelloWorld{
-<<<<<<< HEAD
-	//dsfsdsdfjasdjk1256
-=======
-	//dsfsdsdfjasdjk123456
->>>>>>> branch 'master' of https://github.com/githubswz/eclipseProjectRemote.git
+	//dsfsdsdfjasdjk1256+5465
 	public String sayHello(String name){
 		return "Hello "+name ;
 	}
